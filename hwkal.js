@@ -23,13 +23,13 @@ global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
 global.email = 'denyp857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ZANDY PROJECT' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ZANDY BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ZANDY PROJECT' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
+global.owner = ['6288291577991'] // ubah aja pake nomor lu
+global.premium = ['6288291577991'] // ubah aja pake nomor lu
 global.packname = 'HW MODS WA' // ubah aja
 global.ownerr = ['HW MODS WA'] // ubaha aja
 global.author = 'HW MODS WA' //ubah aja
@@ -55,7 +55,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 10
 }
 //=================================================//
 //Terserah Kalau Paham 
