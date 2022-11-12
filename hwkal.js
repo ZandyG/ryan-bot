@@ -28,8 +28,8 @@ global.botname = 'ZANDY BOTZ' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = 'ZANDY ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6288291577991'.'6285863702349'] // ubah aja pake nomor lu
-global.premium = ['6288291577991'.'6285863702349'] // ubah aja pake nomor lu
+global.owner = ['6288291577991','6285863702349'] // ubah aja pake nomor lu
+global.premium = ['6288291577991','6285863702349'] // ubah aja pake nomor lu
 global.packname = 'HW MODS WA' // ubah aja
 global.ownerr = ['HW MODS WA'] // ubaha aja
 global.author = 'HW MODS WA' //ubah aja
